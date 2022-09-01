@@ -1,0 +1,20 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid d348603e-ed7b-41d8-b24d-7293f9d8c9fb)
+
+  (paper "A4")
+
+  (title_block
+    (title "Allwinner V3s")
+    (date "2022-09-02")
+    (rev "1.0.1")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
