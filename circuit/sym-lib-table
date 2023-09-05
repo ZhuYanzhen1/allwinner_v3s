@@ -1,3 +1,4 @@
 (sym_lib_table
+  (version 7)
   (lib (name "v3s_library")(type "KiCad")(uri "${KIPRJMOD}/v3s_library.kicad_sym")(options "")(descr ""))
 )
